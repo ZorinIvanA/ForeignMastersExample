@@ -1,0 +1,15 @@
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\BusinessLogicTests.dll
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\BusinessLogicTests.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\BusinessLogic.dll
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\BusinessLogic.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\obj\Debug\BusinessLogicTests.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\obj\Debug\BusinessLogicTests.dll
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\obj\Debug\BusinessLogicTests.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\1.xml
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\Contracts.dll
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\DataAccessLayer.dll
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\EntityFramework.dll
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\Contracts.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\EntityFramework.xml
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\ru\EntityFramework.resources.dll

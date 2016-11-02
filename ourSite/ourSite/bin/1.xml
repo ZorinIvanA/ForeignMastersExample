@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfStudent xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BusinessLogic"><Student><Birthday>1985-01-01T00:00:00</Birthday><Id>1</Id><Name>Ivan</Name></Student><Student><Birthday>1985-02-01T00:00:00</Birthday><Id>2</Id><Name>Vladimir</Name></Student></ArrayOfStudent>

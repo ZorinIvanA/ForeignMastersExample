@@ -1,0 +1,4 @@
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\documents\visual studio 2013\Projects\ourSite\Contracts\obj\Debug\Contracts.pdb

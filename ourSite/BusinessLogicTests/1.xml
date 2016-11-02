@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<ArrayOfStudent>
+  <Student>
+    <Id>1</Id>
+    <Name>Ivan</Name>
+    <Birthday>01.01.1985</Birthday>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <Name>Vladimir</Name>
+    <Birthday>01.02.1985</Birthday>
+  </Student>
+</ArrayOfStudent>
