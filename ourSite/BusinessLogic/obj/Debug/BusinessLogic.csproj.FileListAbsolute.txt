@@ -14,3 +14,19 @@ C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogic\bin\De
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogic\bin\Debug\BusinessLogic.dll.config
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogic\bin\Debug\Contracts.dll
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogic\bin\Debug\Contracts.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\Contracts.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\Contracts.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -46,7 +46,9 @@
     <Reference Include="System.Xml.Serialization" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLStudent.cs" />
     <Compile Include="DALStudent.cs" />
+    <Compile Include="IBusinessLogic.cs" />
     <Compile Include="IDataAccessLayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

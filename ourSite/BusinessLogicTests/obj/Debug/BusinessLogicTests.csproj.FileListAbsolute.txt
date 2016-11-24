@@ -13,3 +13,20 @@ C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\b
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\DataAccessLayer.pdb
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\EntityFramework.xml
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\BusinessLogicTests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\1.xml
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\BusinessLogicTests.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\BusinessLogicTests.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\BusinessLogic.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\Contracts.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\DataAccessLayer.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\EntityFramework.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\BusinessLogic.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\Contracts.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\DataAccessLayer.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\EntityFramework.xml
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\obj\Debug\BusinessLogicTests.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\obj\Debug\BusinessLogicTests.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\BusinessLogicTests\obj\Debug\BusinessLogicTests.pdb

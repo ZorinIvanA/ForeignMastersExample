@@ -12,3 +12,17 @@ C:\Users\User\documents\visual studio 2013\Projects\ourSite\DataAccessLayer\obj\
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\DataAccessLayer\bin\Debug\Contracts.dll
 C:\Users\User\documents\visual studio 2013\Projects\ourSite\DataAccessLayer\bin\Debug\Contracts.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\Contracts.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\Contracts.pdb
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -13,35 +13,32 @@ using System.IO;
 
 namespace BusinessLogic
 {
-    public class StudentsLogic
+    public class StudentsLogic : IBusinessLogic
     {
         static IDataAccessLayer _DAL;
 
         static StudentsLogic()
         {
-            var currentDal = Properties.Settings.Default.CurrentDAL;
-            String[] splitted = currentDal.Split('.');
+            _DAL = new DBStudentDAL();
 
-            var assembliesPath =
-                Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "\\DAL";
+        }
 
-            var files = Directory.GetFiles(assembliesPath);
+        public IList<BLStudent> GetStudents()
+        {
+            var studentsInDAL = _DAL.GetStudents(null);
+            List<BLStudent> result = new List<BLStudent>();
 
-            foreach (var f in files)
+            foreach (var st in studentsInDAL)
             {
-                if (Path.GetFileNameWithoutExtension(f) == splitted[0])
+                result.Add(new BLStudent()
                 {
-                    var assembly = Assembly.LoadFrom(splitted[0]);
-                    var t = assembly.GetExportedTypes().FirstOrDefault(
-                        x => x.GetInterface("IDataAccessLayer") != null);
-
-                    if (t != null)
-                    {
-                        _DAL = Activator.CreateInstance(assembly.FullName, t.Name) 
-                            as IDataAccessLayer;
-                    }
-                }
+                    Id = st.id,
+                    Name = st.Name,
+                    Birthday = st.Birthday
+                });
             }
+
+            return result;
 
         }
 
