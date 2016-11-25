@@ -18,6 +18,23 @@ namespace StudentsFromAPIBL
     {
         String APIUrl = "http://localhost:43967/api/students";
 
+        public void AddStudent(DALStudent student)
+        {
+            HttpClient client = new HttpClient();
+
+            //var response = client.PutAsync(APIUrl, ).Result;
+        }
+
+        public void DeleteStudentById(int student)
+        {
+            throw new NotImplementedException();
+        }
+
+        public BLStudent GetStudentById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public IList<BLStudent> GetStudents()
         {
             HttpClient client = new HttpClient();
@@ -39,6 +56,11 @@ namespace StudentsFromAPIBL
             }
 
             throw new Exception();
+        }
+
+        public void UpdateStudent(BLStudent student)
+        {
+            throw new NotImplementedException();
         }
     }
 }

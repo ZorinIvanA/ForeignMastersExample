@@ -9,3 +9,13 @@ C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\b
 C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\Иван\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\StudentsFromAPIBL.dll
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\StudentsFromAPIBL.pdb
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\Contracts.dll
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\Contracts.pdb
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\obj\Debug\StudentsFromAPIBL.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\obj\Debug\StudentsFromAPIBL.dll
+C:\Users\User\Source\Repos\ForeignMastersExample\ourSite\StudentsFromAPIBL\obj\Debug\StudentsFromAPIBL.pdb

@@ -10,7 +10,7 @@ namespace StudentsAPI.Controllers
 {
     public class StudentsController : ApiController
     {
-        [HttpGet]        
+        [HttpGet]
         public IList<DALStudent> Get()
         {
             return new List<DALStudent>
@@ -19,5 +19,25 @@ namespace StudentsAPI.Controllers
                 new DALStudent() { id=0, Name="Petrov Petr", Birthday= DateTime.Parse("01.08.2000")},
             };
         }
+
+        [HttpGet]
+        public DALStudent Get(Int32 id)
+        {
+            return new DALStudent
+            { id = 0, Name = "Petrov Petr", Birthday = DateTime.Parse("01.08.2000") };
+            
+        }
+        [HttpPut]
+        public void Put(DALStudent student)
+        {
+            var x = 3;
+        }
+
+        [HttpDelete]
+        public void Delete(Int32 id) { }
+
+        [HttpPost]
+        public void Update(DALStudent student)
+        { }
     }
 }

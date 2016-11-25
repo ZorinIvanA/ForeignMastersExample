@@ -46,19 +46,22 @@ namespace ourSite.Models
     public class StudentsListModel
     {
         public IList<StudentModel> Students { get; set; }
-        public readonly IBusinessLogic _logic;
+        private readonly IBusinessLogic _logic;
 
-        const String LOGIC_NAME = "BusinessLogic.StudentsLogic";
+        //const String LOGIC_NAME = "BusinessLogic.StudentsLogic";
+        const String LOGIC_NAME = "StudentsFromAPIBL.APIBusinessLogic";
 
         public StudentsListModel()
         {
+            #region code
             var logicNameParts = LOGIC_NAME.Split('.');
             var assembly = Assembly.Load(logicNameParts[0]);
-            var types = assembly.GetExportedTypes().Where(x => x.GetInterfaces().Contains(typeof(IBusinessLogic)));
+            var types = assembly.GetExportedTypes().Where(x => 
+                x.GetInterfaces().Contains(typeof(IBusinessLogic)));
 
             if (types != null && types.Count() > 0)
                 _logic = Activator.CreateInstance(types.First()) as IBusinessLogic;
-
+            #endregion
 
             //_logic = new APIBusinessLogic(); //"Control Freak" anti-pattern
             var studentsFromLogic = _logic.GetStudents();

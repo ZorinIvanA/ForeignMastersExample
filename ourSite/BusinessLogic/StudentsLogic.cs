@@ -168,5 +168,21 @@ new DataContractSerializer(typeof(List<Student>));
 
             //ctx.SaveChanges();
         }
+        public void AddStudent(DALStudent student) { }
+
+        public BLStudent GetStudentById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void UpdateStudent(BLStudent student)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void DeleteStudentById(int student)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
