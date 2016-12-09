@@ -10,9 +10,11 @@ using System.Data.Entity.Core.Objects;
 using Contracts;
 using System.Reflection;
 using System.IO;
+using System.ComponentModel.Composition;
 
 namespace BusinessLogic
 {
+    [Export(typeof(IBusinessLogic))]
     public class StudentsLogic : IBusinessLogic
     {
         static IDataAccessLayer _DAL;

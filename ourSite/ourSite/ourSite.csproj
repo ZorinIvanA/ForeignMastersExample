@@ -43,6 +43,7 @@
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Drawing" />
@@ -248,18 +249,13 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
-      <Project>{4a712a0a-0b77-4201-8849-bc1471b92c58}</Project>
-      <Name>BusinessLogic</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Contracts\Contracts.csproj">
       <Project>{2587E19A-0B91-4030-BF4C-F2C5464001AD}</Project>
       <Name>Contracts</Name>
     </ProjectReference>
-    <ProjectReference Include="..\StudentsFromAPIBL\StudentsFromAPIBL.csproj">
-      <Project>{deb4f895-2da9-4dce-a2f9-591e3ba01f1c}</Project>
-      <Name>StudentsFromAPIBL</Name>
-    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

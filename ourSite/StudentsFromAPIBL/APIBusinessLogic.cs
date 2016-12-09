@@ -1,6 +1,7 @@
 ﻿using Contracts;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.Composition;
 using System.Linq;
 using System.Net.Http;
 using System.Runtime.Serialization;
@@ -14,6 +15,7 @@ namespace StudentsFromAPIBL
     /// <summary>
     /// Business logic, which gets data from Web API
     /// </summary>
+    [Export(typeof(IBusinessLogic))]    
     public class APIBusinessLogic : IBusinessLogic
     {
         String APIUrl = "http://localhost:43967/api/students";
