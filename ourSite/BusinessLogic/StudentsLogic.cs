@@ -170,10 +170,10 @@ new DataContractSerializer(typeof(List<Student>));
 
             //ctx.SaveChanges();
         }
-        public void AddStudent(DALStudent student) { }
+        public void AddStudent(BLStudent student) { }
 
         public BLStudent GetStudentById(int id)
-        {
+        { 
             throw new NotImplementedException();
         }
 

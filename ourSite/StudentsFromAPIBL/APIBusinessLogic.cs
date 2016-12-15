@@ -15,14 +15,21 @@ namespace StudentsFromAPIBL
     /// <summary>
     /// Business logic, which gets data from Web API
     /// </summary>
-    [Export(typeof(IBusinessLogic))]    
+    [Export(typeof(IBusinessLogic))]
     public class APIBusinessLogic : IBusinessLogic
     {
         String APIUrl = "http://localhost:43967/api/students";
 
-        public void AddStudent(DALStudent student)
+        public void AddStudent(BLStudent student)
         {
             HttpClient client = new HttpClient();
+
+            DALStudent studentInDAL = new DALStudent()
+            {
+                Name = student.Name,
+                Birthday = student.Birthday
+            };
+            
 
             //var response = client.PutAsync(APIUrl, ).Result;
         }

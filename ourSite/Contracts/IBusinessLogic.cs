@@ -17,7 +17,7 @@ namespace Contracts
 
         void UpdateStudent(BLStudent student);
 
-        void AddStudent(DALStudent student);
+        void AddStudent(BLStudent student);
 
         void DeleteStudentById(int student);
     }
